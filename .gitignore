@@ -1,0 +1,10 @@
+#Ignore virtual environment directories
+venv/
+env/
+.vscode/
+
+#Ignore .pkl files
+*.pkl
+
+#Ignore .png files
+*.png

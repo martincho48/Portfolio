@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+numpy = "*"
+jupyter = "*"
+matplotlib = "*"
+keras = "*"
+tensorflow = "*"
+scikit-learn = "*"
+joblib = "*"
+optuna-integration = "*"
+plotly = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
