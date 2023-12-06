@@ -8,7 +8,7 @@
 ## About Me
 I'm a passionate data scientist with expertise in Time Series Predictions. I have a strong background in maths and logical thinking. My goal is to keep learning, exploring and getting better.
 
-## Skills/Content of the Portfolio
+## Skills & Content of the Portfolio
 - [Machine Learning](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning)
   - Supervised 
     - [Regression](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Regression)
