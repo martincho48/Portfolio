@@ -9,21 +9,24 @@
 I'm a passionate data scientist with expertise in Time Series Predictions. I have a strong background in maths and logical thinking. My goal is to keep learning, exploring and getting better.
 
 ## Skills
-- Machine Learning
-  - Supervised (Regression, Classification)
-  - Unsupervised (Clustering)
-  - Timeseries (SKtime, PyCaret, LSTM)
+- [Machine Learning](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning)
+  - Supervised 
+    - [Regression](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Regression)
+    - [Classification](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Classification)
+  - Un-supervised 
+    - [Clustering](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Clustering)
+  - [Timeseries](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Time_Series) (SKtime, PyCaret, LSTM)
   - NLP
   - Deep Learning (CNN, RNN, LSTM)
-  - Computer Vision
+  - [Computer Vision](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Computer%20Vision)
 - Data Analysis (Cognos)
 - Programming Languages (Python, VBA)
-- Python frameworks (Pandas, Numpy, Scikit-Learn, Keras, TensorFlow)
-- Database Systems (SQLite, PostgreSQL)
-- Data Visualization (Matplotlib)
+- Python frameworks ([Pandas](https://github.com/martincho48/Portfolio/tree/master/Python/Counting_Profit-Pandas-Matplotlib), Numpy, Scikit-Learn, Keras, TensorFlow)
+- Database Systems ([SQLite](https://github.com/martincho48/Portfolio/tree/master/SQL/SQLite_Teaching)], PostgreSQL)
+- Data Visualization ([Matplotlib](https://github.com/martincho48/Portfolio/tree/master/Python/Counting_Profit-Pandas-Matplotlib))
 - Version Control (Git, Git Bash)
 - Clouds (AWS, GCP, Azure)
-- Containerization (Docker)
+- Containerization ([Docker](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Time_Series/Portland%20Oregon%20Ridership-ARIMA-SARIMA/docker))
 - Workflow Orchestration (Apache Airflow)
 - Front End (HTML, CSS)
 
