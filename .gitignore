@@ -2,9 +2,12 @@
 venv/
 env/
 .vscode/
+credentials/
 
 #Ignore .pkl files
 *.pkl
 
 #Ignore .png files
 *.png
+
+*.env
