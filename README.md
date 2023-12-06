@@ -19,7 +19,7 @@ I'm a passionate data scientist with expertise in Time Series Predictions. I hav
 - Data Analysis (Cognos)
 - Programming Languages (Python, VBA)
 - Python frameworks (Pandas, Numpy, Scikit-Learn, Keras, TensorFlow)
-- Database Systems (SQLite, PostrgeSQL)
+- Database Systems (SQLite, PostgreSQL)
 - Data Visualization (Matplotlib)
 - Version Control (Git, Git Bash)
 - Clouds (AWS, GCP, Azure)
