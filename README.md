@@ -43,8 +43,6 @@ I'm a passionate data scientist with expertise in Time Series Predictions. I hav
 - Technologies Used: Python, AWS
 - Link: https://www.udemy.com/course/writing-production-ready-etl-pipelines-in-python-pandas/
 
-## Education
-- **Masters degree** in Mechanical Engineering, Brno University of Technology, 2024
 
 
 
