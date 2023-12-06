@@ -16,7 +16,7 @@ I'm a passionate data scientist with expertise in Time Series Predictions. I hav
   - Un-supervised 
     - [Clustering](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Clustering)
   - [Timeseries](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Time_Series) (SKtime, PyCaret, LSTM)
-  - [NLP](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/app_book%20recommendation%20system/Book_Recommendation_System-Jupyter)
+  - [NLP](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/NLP)
   - [Deep Learning](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Classification/Titanic-Classification-Neural%20Networks-Optuna) ([CNN](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Computer%20Vision/Digit_Recognizer-CV), RNN, [LSTM](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Time_Series))
   - [Computer Vision](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Computer%20Vision)
 - Data Analysis (Cognos)
