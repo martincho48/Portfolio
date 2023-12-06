@@ -58,7 +58,7 @@ I'm a passionate data scientist with expertise in Time Series Predictions. I hav
     - Creating analytical reports/dashboards in Cognos
 
 ## Certifications
-- Data Science, Software Development Academy, 2023
+- [Data Science](https://app.diplomasafe.com/en-US/diploma/ddf01102ce4db3d10826c9c82196de4eafc66599d/data-science/linkedin), Software Development Academy, 2023
 
 ## Contact Information
 - Email: martin.bilek48@gmail.com
