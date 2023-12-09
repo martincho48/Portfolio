@@ -1,7 +1,7 @@
 # Analytical solution
 
 
-<img src="gradient_descent.jpg" alt="Example Image" width="400">
+<img src="gradient_descent.jpg" alt="Example Image" width="800">
 
 
 
