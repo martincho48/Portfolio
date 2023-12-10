@@ -22,7 +22,7 @@ I'm a passionate data scientist with expertise in Time Series Predictions. I hav
 - Data Analysis (Cognos)
 - Programming Languages (Python, VBA)
 - Python frameworks ([Pandas](https://github.com/martincho48/Portfolio/tree/master/Python/Counting_Profit-Pandas-Matplotlib), Numpy, Scikit-Learn, Keras, TensorFlow)
-- Database Systems ([SQLite](https://github.com/martincho48/Portfolio/tree/master/Database_Systems/SQLite_Teaching), [PostgreSQL](https://github.com/martincho48/Portfolio/tree/master/Database_Systems/PostgreSQL_Flask))
+- [Database Systems](https://github.com/martincho48/Portfolio/tree/master/Database_Systems) (SQLite, PostgreSQL
 - Data Visualization ([Matplotlib](https://github.com/martincho48/Portfolio/tree/master/Python/Counting_Profit-Pandas-Matplotlib))
 - Version Control (Git, Git Bash)
 - Clouds (AWS, GCP, Azure)
