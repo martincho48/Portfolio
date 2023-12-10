@@ -1,4 +1,4 @@
-# Martin Bílek - Data Scientist
+# Martin Bílek - Data Scientist/Analyst
 
 
 <img src="images/personal.jpg" alt="Example Image" width="400">
