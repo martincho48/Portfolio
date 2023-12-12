@@ -1,7 +1,7 @@
 # Analytical solution
 
 
-<img src="picture.jpg" alt="Example Image" width="800">
+<img src="cosine_sim.jpg" alt="Example Image" width="800">
 
 
 
