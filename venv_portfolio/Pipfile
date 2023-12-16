@@ -17,6 +17,10 @@ plotly = "*"
 google-cloud-storage = "*"
 python-dotenv = "*"
 psycopg2 = "*"
+boto3 = "*"
+awscli = "*"
+parquet = "*"
+pyarrow = "*"
 
 [dev-packages]
 
