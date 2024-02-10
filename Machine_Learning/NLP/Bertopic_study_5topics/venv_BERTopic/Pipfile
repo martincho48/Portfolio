@@ -8,6 +8,7 @@ jupyter = "*"
 hdbscan = "*"
 bertopic = "*"
 openpyxl = "*"
+gensim = "*"
 
 [dev-packages]
 
