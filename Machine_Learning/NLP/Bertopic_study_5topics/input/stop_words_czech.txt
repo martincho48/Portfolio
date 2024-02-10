@@ -1,4 +1,3 @@
-stopwords
 ačkoli
 ahoj
 ale
