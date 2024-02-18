@@ -19,7 +19,7 @@ I'm a passionate data scientist with expertise in Time Series Predictions. I hav
   - [NLP](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/NLP)
   - [Deep Learning](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Classification/Titanic-Classification-Neural%20Networks-Optuna) ([CNN](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Computer%20Vision/Digit_Recognizer-CV), RNN, [LSTM](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Time_Series))
   - [Computer Vision](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Computer%20Vision)
-  - [ML Methods]([https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/ML Methods](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/ML%20Methods))
+  - [ML Methods](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/ML%20Methods)
 - Data Analysis (Cognos)
 - Programming Languages (Python, VBA)
 - Python frameworks ([Pandas](https://github.com/martincho48/Portfolio/tree/master/Python/Counting_Profit-Pandas-Matplotlib), Numpy, Scikit-Learn, Keras, TensorFlow)
