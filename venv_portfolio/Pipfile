@@ -22,6 +22,8 @@ awscli = "*"
 parquet = "*"
 pyarrow = "*"
 nltk = "*"
+polars = "*"
+seaborn = "*"
 
 [dev-packages]
 
