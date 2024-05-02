@@ -27,6 +27,7 @@ seaborn = "*"
 statsmodels = "*"
 xgboost = "*"
 catboost = "*"
+nevergrad = "*"
 
 [dev-packages]
 

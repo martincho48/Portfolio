@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3e2ee9b123fc9dd301428f60096542d9ec9d02ea7182ae6210d2f315c6fda14a"
+            "sha256": "8389704d86861462f0dbf6ee3dfdbb24a2989633f17d8e994351af1435e4d44f"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -129,6 +129,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==2.14.0"
+        },
+        "bayesian-optimization": {
+            "hashes": [
+                "sha256:2719272d5825f1ba7d7609f3b1c1fdca13eba1b7ad52a5ca2e62f34154ecae28",
+                "sha256:f9a448e1b52d961301cbc953ce4199709f6c26b1c88994c9b4dadb7752a64550"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==1.4.3"
         },
         "beautifulsoup4": {
             "hashes": [
@@ -371,6 +379,13 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==8.1.7"
+        },
+        "cma": {
+            "hashes": [
+                "sha256:5cc571b1e2068fcf1c538be36f8f3a870107456fed22ce81c1345a96329e61db",
+                "sha256:b748b8e03f4e7ae816157d7b9bb2fc6b1fb2fee1d5fd3399329b646bb75861ec"
+            ],
+            "version": "==3.3.0"
         },
         "colorama": {
             "hashes": [
@@ -1451,6 +1466,15 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==1.6.0"
+        },
+        "nevergrad": {
+            "hashes": [
+                "sha256:3bcb6fe1fdfb57bcde225af42db2a55142c51aa249dd333f9ec58933e118c056",
+                "sha256:8c7795bebd5694c2d906e14a900d44279b6982199a12a9295f7e8410d94dd776"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.6'",
+            "version": "==1.0.2"
         },
         "nltk": {
             "hashes": [
