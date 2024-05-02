@@ -5,6 +5,7 @@ env/
 credentials/
 other/
 material/
+Ekonometric/
 
 #Ignore .pkl files
 *.pkl

@@ -24,6 +24,9 @@ pyarrow = "*"
 nltk = "*"
 polars = "*"
 seaborn = "*"
+statsmodels = "*"
+xgboost = "*"
+catboost = "*"
 
 [dev-packages]
 
