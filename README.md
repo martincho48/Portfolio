@@ -11,7 +11,7 @@ I'm a passionate data scientist with expertise in Time Series Predictions. I hav
 ## Skills & Content of the Portfolio
 - [Machine Learning](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning)
   - Supervised 
-    - [Regression](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Regression)
+    - [Regression](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Regression_Econometrics)
     - [Classification](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Classification)
   - Un-supervised 
     - [Clustering](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Clustering)
@@ -20,7 +20,7 @@ I'm a passionate data scientist with expertise in Time Series Predictions. I hav
   - [Deep Learning](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Classification/Titanic-Classification-Neural%20Networks-Optuna) ([CNN](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Computer%20Vision/Digit_Recognizer-CV), RNN, [LSTM](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Time_Series))
   - [Computer Vision](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Computer%20Vision)
   - [ML Methods](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/ML%20Methods)
-- [Regression](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Regression)
+- [Ekonometrics](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Regression_Econometrics)
 - Data Analysis (Cognos)
 - Programming Languages (Python, VBA)
 - Python frameworks ([Pandas](https://github.com/martincho48/Portfolio/tree/master/Python/Counting_Profit-Pandas-Matplotlib), Numpy, Scikit-Learn, Keras, TensorFlow)
