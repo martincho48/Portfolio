@@ -14,5 +14,6 @@ Ekonometric/
 *.png
 
 *.env
+
 Machine_Learning/Regression/Comercials-marketing_mix_modeling/notebook.ipynb
 Machine_Learning/Regression/Comercials-marketing_mix_modeling/train.ipynb
