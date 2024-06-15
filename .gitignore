@@ -12,6 +12,7 @@ Ekonometric/
 
 #Ignore .png files
 *.png
+*.pptx
 
 *.env
 
