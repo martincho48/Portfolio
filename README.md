@@ -22,7 +22,9 @@ I'm a passionate data scientist with expertise in Time Series Predictions. I hav
   - [ML Methods](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/ML%20Methods)
 - [Econometrics](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Regression_Econometrics)
 - [ETL, API](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/ETL)
-- Data Analysis (Cognos)
+- Data Analysis
+    - [PowerBI](https://github.com/martincho48/Portfolio/tree/master/PowerBI)
+    - Cognos
 - Programming Languages (Python, VBA)
 - Python frameworks ([Pandas](https://github.com/martincho48/Portfolio/tree/master/Python/Counting_Profit-Pandas-Matplotlib), Numpy, Scikit-Learn, Keras, TensorFlow)
 - [Database Systems](https://github.com/martincho48/Portfolio/tree/master/Database_Systems) (SQLite, PostgreSQL)
