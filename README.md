@@ -1,7 +1,7 @@
 # Martin Bílek - Data Scientist/Analyst
 
 
-<img src="images/personal.jpg" alt="Example Image" width="400">
+<img src="images/1200x1200 face photo.png" alt="Example Image" width="400">
 
 
 
