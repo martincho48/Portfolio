@@ -11,7 +11,7 @@ Ekonometric/
 *.pkl
 
 #Ignore .png files
-*.png
+#*.png
 *.pptx
 
 *.env
