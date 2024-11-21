@@ -1,4 +1,4 @@
-#Ignore virtual environment directories
+# Ignore virtual environment directories
 venv/
 env/
 .vscode/
@@ -7,12 +7,13 @@ other/
 material/
 Ekonometric/
 
-#Ignore .pkl files
+# Ignore .pkl files
 *.pkl
 
-#Ignore .png files
-#*.png
+# certain data files
+# *.png
 *.pptx
+*.docx
 
 *.env
 
