@@ -162,7 +162,3 @@ final_filtered_df = filter_df(df=df1,
 
 
 display(final_filtered_df)
-
-# COMMAND ----------
-
-cscsacasc
