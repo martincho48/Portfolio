@@ -41,10 +41,10 @@ I'm a passionate data scientist with expertise in Time Series Predictions. I hav
 - Technologies Used: Python, Flask, HTML, CSS, Docker, GCP
 - Link: https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/app_book%20recommendation%20system
 
-### End-to-End ML Pipeline - ongoing
-- Description: Via API data are taken from a website in JSON format after that the data are cleaned and saved into PostgreSQL database. ML model takes the newest data from the database and after traning the model is exported in pkl format. The pkl model is used in a app created in Flask. This app is dockerized and uploaded on Google cloud. 
-- Technologies Used: Python, Flask, Docker, GCP, PostgreSQL, Airflow, HTML, CSS
-- Link: https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/ETL/weather_project
+### ETL pipeline in Azure for upcoming films
+- Description: a pipeline which scrapes data from public film database, process the data and create dashboard on the monthly basis all in Azure
+- Technologies Used: Python, PySpark, Azure, Databricks, Data Factory, Data Lake, Vaults, GitHub
+- Link: https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/ETL/azure_pipeline_films
 
 ### Udemy - Writing production-ready ETL pipelines in Python / Pandas - ongoing
 - Description: Learn how to write professional ETL pipelines using best practices in Python and Data Engineering.
