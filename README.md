@@ -39,20 +39,12 @@ I'm a passionate data scientist with expertise in Time Series Predictions. I hav
 ### Book Recommendation System
 - Description: Add book you like and you get recommended similar books
 - Technologies Used: Python, Flask, HTML, CSS, Docker, GCP
-- Link: https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/app_book%20recommendation%20system
+- Link: https://getprediction-vtm5dloeea-lm.a.run.app/
 
 ### ETL pipeline in Azure for upcoming films
 - Description: a pipeline which scrapes data from public film database, process the data and create dashboard on the monthly basis all in Azure
 - Technologies Used: Python, PySpark, Azure, Databricks, Data Factory, Data Lake, Vaults, GitHub
 - Link: https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/ETL/azure_pipeline_films
-
-### Udemy - Writing production-ready ETL pipelines in Python / Pandas - ongoing
-- Description: Learn how to write professional ETL pipelines using best practices in Python and Data Engineering.
-- Technologies Used: Python, AWS
-- Link: https://www.udemy.com/course/writing-production-ready-etl-pipelines-in-python-pandas/
-
-
-
 
 ## Education
 - **Masters degree** in Mechanical Engineering, Brno University of Technology, 2024
