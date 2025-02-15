@@ -28,6 +28,9 @@ statsmodels = "*"
 xgboost = "*"
 catboost = "*"
 nevergrad = "*"
+h3 = "*"
+folium = "*"
+pytorch-forecasting = "*"
 
 [dev-packages]
 
