@@ -50,13 +50,14 @@ I'm a passionate data scientist with expertise in Time Series Predictions. I hav
 ## Education
 - **Masters degree** in Mechanical Engineering, Brno University of Technology, 2024
 ## Work Experience
-- **Data Scientist/Analyst** at Czech Post, 2023
+- **Data Scientist/Analyst** at Czech Post, 2022
   - Responsibilities: 
     - Timeseries predictions of the parcels in Python
     - Creating analytical reports/dashboards in Cognos
 
 ## Certifications
-- [Data Science](https://app.diplomasafe.com/en-US/diploma/ddf01102ce4db3d10826c9c82196de4eafc66599d/data-science/linkedin), Software Development Academy, 2023
+- [Time Series Analysis and Forecasting](https://drive.google.com/file/d/1C_Vvv_kZrylVbbXxZAKE8kdeMw6pbq18/view), Software Development Academy, 2023
+- [Data Science](https://drive.google.com/file/d/1CrSeagzmYECl29tdsToW4f8o1IxTVVQt/view?usp=sharing), Software Development Academy, 2023
 
 ## Contact Information
 - Email: martin.bilek48@gmail.com
