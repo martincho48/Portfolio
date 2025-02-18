@@ -56,7 +56,7 @@ I'm a passionate data scientist with expertise in Time Series Predictions. I hav
     - Creating analytical reports/dashboards in Cognos
 
 ## Certifications
-- [Time Series Analysis and Forecasting](https://drive.google.com/file/d/1C_Vvv_kZrylVbbXxZAKE8kdeMw6pbq18/view), Software Development Academy, 2023
+- [Time Series Analysis and Forecasting](https://drive.google.com/file/d/1C_Vvv_kZrylVbbXxZAKE8kdeMw6pbq18/view), ACREA CR, 2024
 - [Data Science](https://drive.google.com/file/d/1CrSeagzmYECl29tdsToW4f8o1IxTVVQt/view?usp=sharing), Software Development Academy, 2023
 
 ## Contact Information
