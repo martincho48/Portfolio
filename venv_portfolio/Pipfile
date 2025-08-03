@@ -31,6 +31,15 @@ nevergrad = "*"
 h3 = "*"
 folium = "*"
 pytorch-forecasting = "*"
+pulp = "*"
+deap = "*"
+simanneal = "*"
+google-meridian = "*"
+optapy = "*"
+holidays = "*"
+jaxlib = "*"
+jax = "*"
+vertexai = "*"
 
 [dev-packages]
 
