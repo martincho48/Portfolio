@@ -1,0 +1,24 @@
+# Ignore virtual environment directories
+venv/
+env/
+.vscode/
+credentials/
+other/
+material/
+Ekonometric/
+
+# Ignore .pkl files
+*.pkl
+
+# certain data files
+# *.png
+*.pptx
+*.docx
+
+*.env
+
+Machine_Learning/Regression/Comercials-marketing_mix_modeling/notebook.ipynb
+Machine_Learning/Regression/Comercials-marketing_mix_modeling/train.ipynb
+
+Machine_Learning/ML Methods/Derivative of Cost Function of Logistic Regression/Derivative of Cost Function of Logistic Regression.docx
+Machine_Learning/ML Methods/Derivative of Cost Function of Logistic Regression/~$rivative of Cost Function of Logistic Regression.docx
