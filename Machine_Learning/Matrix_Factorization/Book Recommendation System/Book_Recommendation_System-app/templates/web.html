@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='web.css') }}"/>
+    <title>Book Recommendation</title>
+</head>
+<body>
+    <h1>Book Recommendation</h1>
+    
+    <form method="post">
+        <label for="book_title">Enter a book title:</label>
+        <input type="text" id="book_title" name="user_input">
+        <button type="submit">Find Recommendations</button>
+    </form>
+   
+
+
+
+    <!-- checks if the DataFrame HTML (df_html) exists and write it down -->
+    {% if df_html %}
+    <h2>{{ message1 }}</h2>
+    <h2>{{ message2 }}</h2>
+
+    <!-- Center-align the table by wrapping it inside a table -->
+    <table>
+        <!-- Insert the HTML table here using the | safe filter -->
+        {{ df_html | safe }}
+    </table>
+    {% endif %}
+
+
+</body>
+</html>

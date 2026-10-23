@@ -1,0 +1,20 @@
+# Ignore virtual environment directories
+venv/
+env/
+.vscode/
+credentials/
+other/
+material/
+
+# Ignore .pkl files
+*.pkl
+
+# certain data files
+*.pptx
+*.docx
+
+*.env
+
+
+# Ignore specific large CSV files
+Machine_Learning/Matrix_Factorization/Book Recommendation System/Book_Recommendation_System-Jupyter/BX-Books.csv
